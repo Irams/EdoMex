@@ -1,4 +1,4 @@
-{
+﻿{
      "type": "FeatureCollection",
      "table_name": "EdoMex",
      "geometry_type": "Polygon",
